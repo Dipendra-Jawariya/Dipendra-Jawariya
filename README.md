@@ -10,9 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Streaming Platform**
+- 🚀 Passionate Learner | 🌟 Innovative Problem Solver
 
-- 🌱 I’m currently learning **Sprint Boot**
+As a college student, I am passionate about learning and exploring new technologies. I am currently working on a video-streaming platform project, where I plan to add functionalities that are not available on popular platforms like YouTube. 
+
+👨‍💻 Challenging Problem Solver | 🏆 Coding Competition Enthusiast
+
+I enjoy taking on challenging problems and regularly participate in coding competitions, such as LeetCode, to further develop my analytical and problem-solving skills. Leveraging my knowledge and creativity, I am dedicated to finding solutions to complex challenges in the field of software development.
 
 - 💬 Ask me about **Angular**
 
@@ -22,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dipendra-jawariya-6804a9206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipendra-jawariya-6804a9206" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dipendrajawariy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipendrajawariy1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dipendrajawariya20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipendrajawariya20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dipendrajawariy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipendrajawariy1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
